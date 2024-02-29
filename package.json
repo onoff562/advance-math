@@ -1,0 +1,27 @@
+{
+  "name": "advance_math_for_tea",
+  "version": "0.0.1",
+  "description": "Addition, Substraction, Multiply, Division",
+  "main": "bin/main.js",
+  "scripts": {
+    "test": "Advance math package"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onoff562/advance-math.git"
+  },
+  "dependencies": {
+    "simple_math_for_tea": "^0.0.1"
+  },
+  "keywords": [
+    "math",
+    "node",
+    "js"
+  ],
+  "author": "onoff562",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onoff562/advance-math/issues"
+  },
+  "homepage": "https://github.com/onoff562/advance-math#readme"
+}

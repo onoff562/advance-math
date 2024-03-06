@@ -1,6 +1,6 @@
 {
   "name": "advance_math_for_tea",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Addition, Substraction, Multiply, Division",
   "main": "bin/main.js",
   "scripts": {

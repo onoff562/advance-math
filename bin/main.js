@@ -7,3 +7,4 @@ module.exports = {
 	multiplication: advance.multiplication,
 	division: advance.division,
 };
+
